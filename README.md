@@ -1,8 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![](https://komarev.com/ghpvc/?username=ramdom-users&color=yellow)
 
-## Getting Started
 
-First, run the development server:
+#  Random Users
+
+## Descripción del Proyecto
+
+👩🏽‍💻 **S.XXI Technology** es un proyecto responsive realizado para un reto técnico utilizando como tecnología a Next JS, Tailwind y Typescript. Consiste en un búscador aleatorio de usuarios según la cantidad que coloques.
+
+
+<div align="center">
+<img src="./src/assets/images/view.png" width="800">
+</div>
+
+
+
+## Empezando
+Este es un proyecto [Next.js](https://nextjs.org/) arrancado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Empezando
+
+Primero, ejecuta el servidor de desarrollo:
 
 ```bash
 npm run dev
@@ -12,15 +29,15 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver el resultado.
 
-You can start editing the page by modifying `src/pages/index.page.tsx`. The page auto-updates as you edit the file.
+Puedes empezar a editar la página modificando `src/pages/index.page.tsx`. La página se auto-actualiza a medida que editas el archivo.
 
-## Learn More
+## Más información
 
-To learn more about Next.js, take a look at the following resources:
+Para saber más sobre Next.js, echa un vistazo a los siguientes recursos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Documentación de Next.js](https://nextjs.org/docs) - conoce las características y la API de Next.js.
+- [Learn Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Puedes consultar [el repositorio GitHub de Next.js](https://github.com/vercel/next.js/) - ¡tus comentarios y contribuciones son bienvenidos!
