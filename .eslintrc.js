@@ -36,7 +36,7 @@ module.exports = {
     "prettier/prettier": [
       "error",
       {
-        endOfLine: "auto",
+        endOfLine: "on",
       },
     ],
     "@typescript-eslint/no-use-before-define": [
